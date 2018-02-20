@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "MFShangHei_Noncommercial-Regular";
+  src: url("MFShangHei_Noncommercial-Regular.woff2") format("woff2"),
+       url("MFShangHei_Noncommercial-Regular.woff") format("woff"),
+       url("MFShangHei_Noncommercial-Regular.ttf") format("truetype"),
+       url("MFShangHei_Noncommercial-Regular.eot") format("embedded-opentype"),
+       url("MFShangHei_Noncommercial-Regular.svg") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
