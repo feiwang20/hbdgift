@@ -9,21 +9,16 @@
           transform-style: preserve-3d;
 }
 .Block {
-  height: 320px;
-  left: 0;
-  position: absolute;
-  top: 0;
   -webkit-transform: scale(1) rotate3d(0, 1, 0, 25deg);
           transform: scale(1) rotate3d(0, 1, 0, 25deg);
   -webkit-transform-style: preserve-3d;
           transform-style: preserve-3d;
-  width: 320px;
 }
 .Block div {
   position: absolute;
 }
 .Block-header {
-  height: 80px;
+  height: 100px;
   left: 120px;
   top: 0;
   -webkit-transform-origin: bottom center;
