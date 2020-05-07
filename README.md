@@ -1,5 +1,5 @@
 # HBDgift
 
-Emmm, this is an ugly static website written from scratch by me while I was self learning HTML, CSS...
+Emmm, this is an ugly static website written by me nearly from scratch while I was self learning HTML, CSS...
 
 
